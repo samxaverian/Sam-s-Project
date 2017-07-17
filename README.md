@@ -1,2 +1,2 @@
 # Sam-s-Project
-image processing and machine learing
+IOT, Image Processing and Machine Learning
